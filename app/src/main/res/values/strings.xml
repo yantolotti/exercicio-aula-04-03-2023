@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="bem_vindo">Bem-Vindo</string>
+    <string name="login">Login</string>
+    <string name="voltar">Voltar</string>
+</resources>
